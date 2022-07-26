@@ -1,0 +1,101 @@
+@media screen and (max-width:767px) {
+    
+    .mypaddingdown{
+        padding-top: 2rem;
+    }
+    .mymaxfont{
+     font-size: 3rem!important;
+    }
+    .mybtn{
+        margin: 0 0 0 0;
+    }
+    .margintopmy{
+        font-size: 1.5rem;
+    }
+    .mytxtform{
+        font-size: 2rem;
+    }
+    .paragrey{
+        font-size: 0.5rem;
+    }
+    .respbtn{
+        margin-left: 0rem;
+        margin-top: 1rem;
+    }
+    .buttons{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    
+
+
+    .mybtn{
+        width: 19rem;
+
+    }
+    .respbtn{
+        width: 19rem;
+    }
+    .reviewtxt{
+        font-size: 1.8rem;
+        font-weight: 600;
+    }
+    .Testimonial{
+        height:30rem;
+    }
+    .bakedtxt{
+        font-size: 1.7rem;
+    }
+    .btnviewmore3{
+      font-size: 1rem!important;
+
+    }
+    .btnbtn{
+        display: flex;
+
+
+        align-items: center;
+        justify-content: center;
+    }
+    .limited-offer{
+        font-size: 1.2rem;
+    }
+    .flexchange{
+        flex-direction: column;
+        
+    }
+    .subscribe{
+        margin-top: 1rem;
+        width: 100%!important;
+        margin-left: 0!important;
+    }
+    .form-control{
+        width: 100%!important;
+    }
+    .margintop{
+        margin-top: 1rem;
+    }
+    .footer{
+        margin-top: 7.5rem!important;
+    }
+}
+@media screen and (min-width:768px) and (max-width:1200px){
+    .lighterfont {
+        font-size: 1.3rem;
+        font-weight: bolder;
+    }
+.tab-font{
+    font-size: 1.5rem!important;
+}
+.alltext ul li{
+    font-size: 1.3rem!important;
+}
+.leftheading{
+    font-size: 1.6rem!important;
+}
+ .Testimonial{
+    height:32rem;
+}
+
+}
